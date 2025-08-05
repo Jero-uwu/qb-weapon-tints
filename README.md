@@ -1,9 +1,9 @@
-📦 Weapon Tint System for QBCore (Admin Only)
+## 📦 Weapon Tint System for QBCore (Admin Only)
 A QBCore-based FiveM resource that allows admins or gods to give weapons with specific tints or custom skins, stored permanently in item metadata.
 
 --I have not tried the custom skin myself so idk the custom skins work or not(it should🤞) if it dosent pls someone make it work 🥺 pls.
 
-✨ Features
+## ✨ Features
 
 ✅ /giveweapontint [id] [weapon] [tint] command
 
@@ -18,12 +18,12 @@ A QBCore-based FiveM resource that allows admins or gods to give weapons with sp
 ✅ Fully integrated with QBCore inventory and item usage system
 
 
-🧱 Installation
+## 🧱 Installation
 Drag & drop the jt-weapontints folder into your resources/ directory.
 
 Add ensure jt-weapontints to your server.cfg (after qb-core).
 
 Make sure to define admin/god permissions using ACE.
 
-🔐 Recommended: Use license: identifier in server.cfg for most reliable ACE detection.
+## 🔐 Recommended: Use license: identifier in server.cfg for most reliable ACE detection.
 
